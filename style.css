@@ -18,6 +18,7 @@ li {
 }
 
 
+
 .navbar-right {
     display: flex;
     gap: 2rem;
@@ -25,6 +26,13 @@ li {
     margin-right: 1rem;
 
 }
+
+/* .navbar ul li a:hover{
+    color: red;
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 5px 10px;
+} */
 
 
 .from-container {
